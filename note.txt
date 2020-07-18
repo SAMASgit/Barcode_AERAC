@@ -1,0 +1,6 @@
+a differenza della versione precedente la struttura dei loop è pensata come un insieme di condizioni che messe in un unico loop più grande (nel mio caso il run) quando si verificano fanno eseguire determinati pezzi di codice trascurandone altri, invece prima avevo diversi cicli che si ripetevano indipendentemente senza però eseguire altro codice nel frattempo, quindi in teoria rendendo molto difficile se non impossibile fare multitasking
+
+possibili miglioramenti da fare in futuro:
+- aggiungere delle ruote dentate al motore per aumentare un po' la velocità a discapito della trazione che tanto non ne serve molta, oppure fare il contrario partendo da un classico motore brushless o brushed
+- automatizzare la lettura delle soglie mettendo dei bit apposta all'inizio del nastro così non devo stare a posizionarlo manualmente ogni volta
+- stampare quello che leggo dal nastro su un documento di testo invece che in seriale
