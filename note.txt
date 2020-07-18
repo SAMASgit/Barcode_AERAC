@@ -4,3 +4,4 @@ possibili miglioramenti da fare in futuro:
 - aggiungere delle ruote dentate al motore per aumentare un po' la velocità a discapito della trazione che tanto non ne serve molta, oppure fare il contrario partendo da un classico motore brushless o brushed
 - automatizzare la lettura delle soglie mettendo dei bit apposta all'inizio del nastro così non devo stare a posizionarlo manualmente ogni volta
 - stampare quello che leggo dal nastro su un documento di testo invece che in seriale
+- mettere tutti i metodi secondari in un file a parte Methods.h
