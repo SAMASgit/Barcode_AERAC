@@ -5,3 +5,4 @@ possibili miglioramenti da fare in futuro:
 - automatizzare la lettura delle soglie mettendo dei bit apposta all'inizio del nastro così non devo stare a posizionarlo manualmente ogni volta
 - stampare quello che leggo dal nastro su un documento di testo invece che in seriale
 - mettere tutti i metodi secondari in un file a parte Methods.h
+- se rimangono pin liberi posso metterci uno schermetto che mi fa vedere tutti i bit letti
